@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "This is an online educational system that provides courses, resources",
+        "price": 0,
+        "catagory": "Free",
+        "image": "https://img.freepik.com/free-vector/open-book-forest-theme-white-background_1308-100433.jpg?t=st=1716314875~exp=1716318475~hmac=25ae42edfdadcc25e8ae2f18313cb92abe2aa85a574ccfa99d139d150e140a01&w=996"
+    },
+    {
+        "id": 2,
+        "name": "Music Book",
+        "title": "This is an online educational system that provides courses, resources",
+        "price": 100,
+        "catagory": "Free",
+        "image": "https://img.freepik.com/free-vector/open-book-forest-theme-white-background_1308-100433.jpg?t=st=1716314875~exp=1716318475~hmac=25ae42edfdadcc25e8ae2f18313cb92abe2aa85a574ccfa99d139d150e140a01&w=996"
+    },
+    {
+        "id": 3,
+        "name": "Fiction Book",
+        "title": "This is an online educational system that provides courses, resources",
+        "price": 150,
+        "catagory": "Free",
+        "image": "https://img.freepik.com/free-vector/open-book-forest-theme-white-background_1308-100433.jpg?t=st=1716314875~exp=1716318475~hmac=25ae42edfdadcc25e8ae2f18313cb92abe2aa85a574ccfa99d139d150e140a01&w=996"
+    },
+    {
+        "id": 4,
+        "name": "Romance",
+        "title": "This is an online educational system that provides courses, resources",
+        "price": 120,
+        "catagory": "Romantic",
+        "image": "https://img.freepik.com/free-vector/open-book-forest-theme-white-background_1308-100433.jpg?t=st=1716314875~exp=1716318475~hmac=25ae42edfdadcc25e8ae2f18313cb92abe2aa85a574ccfa99d139d150e140a01&w=996"
+    },
+    {
+        "id": 5,
+        "name": "History Book",
+        "title": "This is an online educational system that provides courses, resources",
+        "price": 60,
+        "catagory": "History",
+        "image": "https://img.freepik.com/free-vector/open-book-forest-theme-white-background_1308-100433.jpg?t=st=1716314875~exp=1716318475~hmac=25ae42edfdadcc25e8ae2f18313cb92abe2aa85a574ccfa99d139d150e140a01&w=996"
+    },
+    {
+        "id": 6,
+        "name": "Poetry Book",
+        "title": "This is an online educational system that provides courses, resources",
+        "price": 50,
+        "catagory": "Rabindranath",
+        "image": "https://img.freepik.com/free-vector/open-book-forest-theme-white-background_1308-100433.jpg?t=st=1716314875~exp=1716318475~hmac=25ae42edfdadcc25e8ae2f18313cb92abe2aa85a574ccfa99d139d150e140a01&w=996"
+    },
+    {
+        "id": 7,
+        "name": "Cooking Book",
+        "title": "This is an online educational system that provides courses, resources",
+        "price": 200,
+        "catagory": "Hotel",
+        "image": "https://img.freepik.com/free-vector/open-book-forest-theme-white-background_1308-100433.jpg?t=st=1716314875~exp=1716318475~hmac=25ae42edfdadcc25e8ae2f18313cb92abe2aa85a574ccfa99d139d150e140a01&w=996"
+    }
+]
